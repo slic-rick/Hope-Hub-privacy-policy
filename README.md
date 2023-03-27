@@ -1,4 +1,4 @@
-#Privacy Policy for Hope Hub
+# Privacy Policy for Hope Hub
 
 At Hope Hub, we take your privacy very seriously. This Privacy Policy explains how we collect, use, and disclose your personal information when you use our mobile application ("App").
 
