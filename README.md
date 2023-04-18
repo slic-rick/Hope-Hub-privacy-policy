@@ -3,7 +3,7 @@
 At Hope Hub, we take your privacy very seriously. This Privacy Policy explains how we collect, use, and disclose your personal information when you use our mobile application ("App").
 
 ## Collection of Information
-We may collect personal information that you voluntarily provide when you use our App, such as your name, email address, and payment information. We may also collect non-personal information such as device information, usage data, and other technical information. We use this information to operate and improve our App and to provide you with a better experience.
+We may collect personal information that you voluntarily provide when you use our App, such as your name, email address. We may also collect non-personal information such as device information, usage data, and other technical information. We use this information to operate and improve our App and to provide you with a better experience.
 
 ## Use of Information
 We use your personal information to process your donations and to communicate with you about your use of our App. We may also use your personal information to provide you with promotional offers, surveys, and other marketing communications. We do not share your personal information with third parties except as necessary to operate our App or as required by law.
@@ -17,7 +17,7 @@ Our App is not intended for use by children under the age of 13, and we do not k
 ## Changes to Privacy Policy
 We may update this Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on our website and within our App. You are advised to review this Privacy Policy periodically for any changes.
 
-##Contact Us
+## Contact Us
 If you have any questions about this Privacy Policy or our practices, please contact us at dialslic29@gmail.com
 
-Last updated: 27 March 2023
+Last updated: 18 April 2023
